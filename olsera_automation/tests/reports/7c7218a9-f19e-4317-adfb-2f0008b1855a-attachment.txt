@@ -1,0 +1,12 @@
+Successfully clicked store.
+Successfully clicked katalog.
+Successfully clicked katalog.
+Successfully clicked produk.
+Successfully access add new product.
+Successfully located on create product.
+Successfully upload image.
+Successfully add product name.
+Successfully add alternative product name.
+Successfully add product category.
+Successfully add price.
+Successfully save a new product.
